@@ -1,0 +1,1284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="045829e8-5fe6-4880-b7a6-d65f7c66dfac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/AboutViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ActivityTableViewCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/AlertView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/AppIcon29x29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/AppIcon29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/AppIcon29x29@2x~ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/AppIcon29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/AppIcon29x29~ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/AppIcon40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/AppIcon40x40@2x~ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/AppIcon40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/AppIcon40x40~ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/AppIcon60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/AppIcon60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/AppIcon76x76@2x~ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/AppIcon76x76~ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/AppIcon83.5x83.5@2x~ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Assets.car" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/CommentsTableViewCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/DeleteSite.storyboardc/DeleteSiteViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/DeleteSite.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/DeleteSite.storyboardc/aKn-1R-Ofg-view-Q6D-v8-hgy.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Domains.storyboardc/5v1-yD-jqT-view-4cz-Z4-bMm.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Domains.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Domains.storyboardc/UITableViewController-5v1-yD-jqT.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/EditCommentViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/FancyAlerts.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/FancyAlerts.storyboardc/UIViewController-ZA1-84-qnC.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/FancyAlerts.storyboardc/ZA1-84-qnC-view-9Vm-yf-6NT.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/AFNetworking.framework/AFNetworking" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/AFNetworking.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/AFNetworking.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/Alamofire.framework/Alamofire" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/Alamofire.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/Alamofire.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/AutomatticTracks.framework/AutomatticTracks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/AutomatticTracks.framework/DataModel.bundle/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/AutomatticTracks.framework/DataModel.bundle/Tracks.momd/Tracks.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/AutomatticTracks.framework/DataModel.bundle/Tracks.momd/VersionInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/AutomatticTracks.framework/DataModel.bundle/_CodeSignature/CodeDirectory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/AutomatticTracks.framework/DataModel.bundle/_CodeSignature/CodeRequirements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/AutomatticTracks.framework/DataModel.bundle/_CodeSignature/CodeRequirements-1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/AutomatticTracks.framework/DataModel.bundle/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/AutomatticTracks.framework/DataModel.bundle/_CodeSignature/CodeSignature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/AutomatticTracks.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/AutomatticTracks.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/Aztec.framework/Assets.car" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/Aztec.framework/Aztec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/Aztec.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/Aztec.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/CocoaLumberjack.framework/CocoaLumberjack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/CocoaLumberjack.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/CocoaLumberjack.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FLAnimatedImage.framework/FLAnimatedImage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FLAnimatedImage.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FLAnimatedImage.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/ar.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/bg.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/ca.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/cs.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/da.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/de.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/el.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/en.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/es.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/fr.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/he.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/hu.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/id.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/it.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/ja.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/ko.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/ms.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/nb.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/nl.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/nn.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/pl.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/pt.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/pt_BR.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/ro.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/ru.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/sv.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/th.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/tr.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/uk.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/vi.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/zh-Hans.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/FormatterKit.bundle/zh-Hant.lproj/FormatterKit.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/FormatterKit.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/GTMOAuth2.framework/GTMOAuth2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/GTMOAuth2.framework/GTMOAuth2ViewTouch.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/GTMOAuth2.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/GTMOAuth2.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/GTMSessionFetcher.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/GTMSessionFetcher.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/GoogleToolboxForMac.framework/GoogleToolboxForMac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/GoogleToolboxForMac.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/GoogleToolboxForMac.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/Gridicons.framework/Gridicons" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/Gridicons.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/Gridicons.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/Lottie.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/Lottie.framework/Lottie" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/Lottie.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/MGSwipeTableCell.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/MGSwipeTableCell.framework/MGSwipeTableCell" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/MGSwipeTableCell.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/MRProgress.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/MRProgress.framework/MRProgress" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/MRProgress.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/NSObject_SafeExpectations.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/NSObject_SafeExpectations.framework/NSObject_SafeExpectations" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/NSObject_SafeExpectations.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/NSURL_IDN.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/NSURL_IDN.framework/NSURL_IDN" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/NSURL_IDN.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/OnePasswordExtension.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/OnePasswordExtension.framework/OnePasswordExtension" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/OnePasswordExtension.framework/OnePasswordExtensionResources.bundle/Assets.car" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/OnePasswordExtension.framework/OnePasswordExtensionResources.bundle/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/OnePasswordExtension.framework/OnePasswordExtensionResources.bundle/_CodeSignature/CodeDirectory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/OnePasswordExtension.framework/OnePasswordExtensionResources.bundle/_CodeSignature/CodeRequirements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/OnePasswordExtension.framework/OnePasswordExtensionResources.bundle/_CodeSignature/CodeRequirements-1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/OnePasswordExtension.framework/OnePasswordExtensionResources.bundle/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/OnePasswordExtension.framework/OnePasswordExtensionResources.bundle/_CodeSignature/CodeSignature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/OnePasswordExtension.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/Reachability.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/Reachability.framework/Reachability" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/Reachability.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/SVProgressHUD.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/SVProgressHUD.framework/SVProgressHUD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/SVProgressHUD.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/Starscream.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/Starscream.framework/Starscream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/Starscream.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/UIDeviceIdentifier.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/UIDeviceIdentifier.framework/UIDeviceIdentifier" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/UIDeviceIdentifier.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WPMediaPicker.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WPMediaPicker.framework/WPMediaPicker" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WPMediaPicker.framework/WPMediaPicker.bundle/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WPMediaPicker.framework/WPMediaPicker.bundle/_CodeSignature/CodeDirectory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WPMediaPicker.framework/WPMediaPicker.bundle/_CodeSignature/CodeRequirements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WPMediaPicker.framework/WPMediaPicker.bundle/_CodeSignature/CodeRequirements-1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WPMediaPicker.framework/WPMediaPicker.bundle/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WPMediaPicker.framework/WPMediaPicker.bundle/_CodeSignature/CodeSignature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WPMediaPicker.framework/WPMediaPicker.bundle/gridicons-audio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WPMediaPicker.framework/WPMediaPicker.bundle/gridicons-audio@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WPMediaPicker.framework/WPMediaPicker.bundle/gridicons-audio@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WPMediaPicker.framework/WPMediaPicker.bundle/gridicons-camera-large.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WPMediaPicker.framework/WPMediaPicker.bundle/gridicons-camera-large@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WPMediaPicker.framework/WPMediaPicker.bundle/gridicons-camera-large@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WPMediaPicker.framework/WPMediaPicker.bundle/gridicons-camera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WPMediaPicker.framework/WPMediaPicker.bundle/gridicons-camera@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WPMediaPicker.framework/WPMediaPicker.bundle/gridicons-camera@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WPMediaPicker.framework/WPMediaPicker.bundle/gridicons-pages.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WPMediaPicker.framework/WPMediaPicker.bundle/gridicons-pages@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WPMediaPicker.framework/WPMediaPicker.bundle/gridicons-pages@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WPMediaPicker.framework/WPMediaPicker.bundle/gridicons-video-camera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WPMediaPicker.framework/WPMediaPicker.bundle/gridicons-video-camera@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WPMediaPicker.framework/WPMediaPicker.bundle/gridicons-video-camera@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WPMediaPicker.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/AC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/AD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/AE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/AF.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/AG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/AI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/AL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/AO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/AQ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/AR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/AS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/AT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/AU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/AW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/AX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/AZ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/BA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/BB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/BD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/BE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/BF.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/BG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/BH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/BI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/BJ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/BL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/BM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/BN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/BO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/BQ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/BR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/BT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/BV.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/BW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/BY.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/BZ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/CA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/CC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/CD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/CF.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/CG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/CH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/CI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/CK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/CL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/CM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/CN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/CO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/CP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/CR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/CU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/CV.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/CW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/CX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/CY.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/CZ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/DE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/DG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/DJ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/DK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/DM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/DO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/DZ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/EA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/EC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/EE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/EG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/EH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/ER.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/ES.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/ET.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/EU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/FI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/FJ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/FK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/FM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/FO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/FR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/GA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/GB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/GD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/GE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/GF.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/GG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/GH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/GI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/GL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/GM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/GN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/GP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/GQ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/GR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/GS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/GT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/GU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/GW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/GY.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/HK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/HM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/HN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/HR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/HT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/HU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/IC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/ID.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/IE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/IL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/IM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/IN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/IO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/IQ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/IR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/IS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/IT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/InsightsWrappingTextCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/JE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/JM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/JO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/JP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/KE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/KG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/KH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/KI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/KM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/KN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/KP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/KW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/KY.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/KZ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/LA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/LB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/LC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/LI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/LK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/LR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/LS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/LT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/LU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/LV.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/LY.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/MA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/MC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/MD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/ME.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/MF.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/MG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/MH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/MK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/ML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/MM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/MN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/MO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/MP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/MQ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/MR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/MS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/MT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/MU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/MV.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/MW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/MX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/MY.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/MZ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/NA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/NC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/NE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/NF.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/NG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/NI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/NL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/NO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/NP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/NR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/NU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/NZ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/OM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/PA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/PF.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/PG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/PH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/PK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/PL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/PN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/PR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/PS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/PT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/PW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/PY.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/QA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/RE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/RO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/RS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/RU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/RW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SJ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/ST.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SV.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SY.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SZ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SiteStats.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SiteStats.storyboardc/NsQ-9F-hsi-view-C3f-Na-csc.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SiteStats.storyboardc/Pq6-gc-ScC-view-4oy-Og-Ww9.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SiteStats.storyboardc/StatsContainerViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SiteStats.storyboardc/StatsPostDetailsTableViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SiteStats.storyboardc/StatsTableViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SiteStats.storyboardc/StatsViewAllTableViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SiteStats.storyboardc/Tay-X0-ceG-view-UJ3-1G-p8v.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SiteStats.storyboardc/UICollectionViewController-UNM-aq-4A0.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SiteStats.storyboardc/UINavigationController-PF0-fe-QqW.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SiteStats.storyboardc/UITableViewController-Pq6-gc-ScC.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SiteStats.storyboardc/UNM-aq-4A0-view-hAj-at-GMa.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SiteStats.storyboardc/qzH-Vg-Gi3-view-yO0-Lr-iKb.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/SiteStats.storyboardc/uuT-Sq-uB0-view-URJ-3C-2Md.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/StatsNoResultsRowTableViewCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/TA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/TC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/TD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/TF.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/TG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/TH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/TJ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/TK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/TL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/TM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/TN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/TO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/TR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/TT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/TV.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/TW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/TZ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/UA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/UG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/UM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/UN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/US.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/UY.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/UZ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/VA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/VC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/VE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/VG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/VI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/VN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/VU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/WF.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/WS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/WordPressComStatsiOS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/XK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/YE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/YT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/ZA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/ZM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/ZW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-chevron-down-20x20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-chevron-down-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-chevron-down-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-chevron-right-8x13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-chevron-right-8x13@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-chevron-right-8x13@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-chevron-up-20x20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-chevron-up-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-chevron-up-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-comment-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-comment-16x16@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-comment-16x16@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-comment-25x25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-comment-25x25@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-comment-25x25@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-eye-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-eye-16x16@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-eye-16x16@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-eye-25x25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-eye-25x25@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-eye-25x25@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-folder-20x20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-folder-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-folder-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-share-20x20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-share-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-share-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-star-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-star-16x16@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-star-16x16@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-star-25x25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-star-25x25@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-star-25x25@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-tag-20x20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-tag-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-tag-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-text-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-text-16x16@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-text-16x16@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-trophy-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-trophy-16x16@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-trophy-16x16@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-user-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-user-16x16@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-user-16x16@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-user-25x25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-user-25x25@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressComStatsiOS.framework/icon-user-25x25@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/WPEditorFormatbarView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/WPHybridCallbacker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/WPHybridLogger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/WordPressEditor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSRichTextEditor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSbgcolor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSbgcolor@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSScenterjustify.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSScenterjustify@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSclearstyle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSclearstyle@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSforcejustify.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSforcejustify@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSh1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSh1@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSh2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSh2@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSh3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSh3@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSh4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSh4@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSh5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSh5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSh6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSh6@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSShorizontalrule.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSShorizontalrule@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSindent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSindent@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSleftjustify.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSleftjustify@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSoutdent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSoutdent@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSquicklink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSquicklink@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSredo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSredo@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSrightjustify.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSrightjustify@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSsubscript.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSsubscript@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSsuperscript.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSsuperscript@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSStextcolor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSStextcolor@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSundo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/ZSSundo@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/editor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon-posts-editor-inspector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon-posts-editor-inspector@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon-posts-editor-inspector@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon-posts-editor-preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon-posts-editor-preview@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon-posts-editor-preview@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_bold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_bold@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_bold@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_html@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_html@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_italic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_italic@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_italic@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_keyboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_keyboard@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_link.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_link@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_link@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_media.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_media@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_media@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_more.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_more@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_more@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_ol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_ol@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_ol@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_quote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_quote@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_quote@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_strikethrough.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_strikethrough@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_strikethrough@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_ul.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_ul@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_ul@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_underline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_underline@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_unlink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_format_unlink@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_options.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_options@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/icon_preview@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/jquery.mobile-events.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/js-beautifier.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/rangy-classapplier.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/rangy-core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/rangy-highlighter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/rangy-selectionsaverestore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/rangy-serializer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/rangy-textrange.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/shortcode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/underscore-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/wpload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/wpposter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressEditor.framework/wpsave.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressKit.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressKit.framework/WordPressKit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressKit.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressShared.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressShared.framework/Languages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressShared.framework/NotoSerif-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressShared.framework/NotoSerif-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressShared.framework/NotoSerif-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressShared.framework/NotoSerif-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressShared.framework/WordPressShared" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/WordPressShared.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/libswiftAVFoundation.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/libswiftAssetsLibrary.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/libswiftCore.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/libswiftCoreAudio.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/libswiftCoreData.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/libswiftCoreFoundation.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/libswiftCoreGraphics.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/libswiftCoreImage.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/libswiftCoreLocation.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/libswiftCoreMedia.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/libswiftDarwin.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/libswiftDispatch.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/libswiftFoundation.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/libswiftMetal.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/libswiftObjectiveC.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/libswiftPhotos.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/libswiftQuartzCore.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/libswiftSwiftOnoneSupport.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/libswiftUIKit.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/libswiftos.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/libswiftsimd.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/wpxmlrpc.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/wpxmlrpc.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Frameworks/wpxmlrpc.framework/wpxmlrpc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/ar.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/ca.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/cs.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/da.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/de.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/el.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/en.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/en_GB.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/es.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/es_MX.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/fi.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/fr.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/google@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/google@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/he.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/hr.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/hu.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/id.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/it.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/ja.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/ko.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/ms.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/nb.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/nl.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/pl.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/pt.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/pt_BR.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/pt_PT.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/ro.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/ru.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/sk.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/sv.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/th.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/tr.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/uk.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/vi.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/zh_CN.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/GoogleSignIn.bundle/zh_TW.lproj/GoogleSignIn.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HSThemes/HelpshiftConfig.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HSThemes/HelpshiftConfigDark.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HSThemes/HelpshiftConfigHighContrast.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HelpshiftCustomConfig.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/ar.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/bg.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/bn.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/ca.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/cs.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/da.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/de.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/el.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/en.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/es.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/fa.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/fi.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/fr.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/gu.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/he.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/hi.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/hr.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/hu.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/id.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/it.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/ja.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/kn.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/ko.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/lv.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/ml.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/mr.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/ms.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/nb-NO.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/nb.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/nl.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/pa.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/pl.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/pt.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/ro.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/ru.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/sk.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/sl.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/sv.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/ta.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/te.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/th.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/tr.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/uk.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/vi.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/zh-HK.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/zh-Hans-SG.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/zh-Hans.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/zh-Hant-HK.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/zh-Hant.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsLocalization.bundle/zh-SG.lproj/HelpshiftLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/Assets.car" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/HsMultilineTextCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/hsCampaignsInbox.storyboardc/7bK-jq-Zjz-view-r7i-6Z-zg0.nib/objects-8.0+.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/hsCampaignsInbox.storyboardc/7bK-jq-Zjz-view-r7i-6Z-zg0.nib/objects-9.1+.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/hsCampaignsInbox.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/hsCampaignsInbox.storyboardc/JEX-9P-axG-view-svH-Pt-448.nib/objects-8.0+.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/hsCampaignsInbox.storyboardc/JEX-9P-axG-view-svH-Pt-448.nib/objects-9.1+.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/hsCampaignsInbox.storyboardc/hsCampaignDetailController.nib/objects-8.0+.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/hsCampaignsInbox.storyboardc/hsCampaignDetailController.nib/objects-9.1+.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/hsCampaignsInbox.storyboardc/hsCampaignsInboxNavigationController.nib/objects-8.0+.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/hsCampaignsInbox.storyboardc/hsCampaignsInboxNavigationController.nib/objects-9.1+.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/hsContactUsFooterView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/hsSupportMain.storyboardc/4R6-84-iC0-view-I5r-nE-bcp.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/hsSupportMain.storyboardc/Ak4-Ms-8aq-view-8K9-9e-O81.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/hsSupportMain.storyboardc/HsIssueDetailViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/hsSupportMain.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/hsSupportMain.storyboardc/OgE-Vo-gH7-view-t7p-Vv-oLv.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/hsSupportMain.storyboardc/W3c-II-I4p-view-Khs-L2-CB4.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/hsSupportMain.storyboardc/cJ1-md-cyM-view-8PQ-Cr-d8A.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/hsSupportMain.storyboardc/hsFAQListViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/hsSupportMain.storyboardc/hsSectionsListViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/hsSupportMain.storyboardc/hsSingleFaqViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/hsSupportMain.storyboardc/hsSuggestionsVC.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/hsSupportMain.storyboardc/hsSupportMainNavigationController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/HsUIResourceBundle.bundle/hsSupportMain.storyboardc/xye-2r-Ejk-view-89N-pS-47d.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ImageCropViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/JetpackLoginViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Launch Screen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Launch Screen.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Launch Screen.storyboardc/UIViewController-01J-lp-oVM.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/LaunchImage-700-568h@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/LaunchImage-700-Landscape@2x~ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/LaunchImage-700-Landscape~ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/LaunchImage-700-Portrait@2x~ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/LaunchImage-700-Portrait~ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/LaunchImage-700@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/LaunchImage-800-667h@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/LaunchImage-800-Landscape-736h@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/LaunchImage-800-Portrait-736h@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/0GP-rM-Hvu-view-TzF-S4-1lW.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/GSd-vy-rpZ-view-Xyo-MA-Ddd.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/Kvo-Y2-yhG-view-HnR-5a-suO.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/Login2FAViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/LoginLinkRequestViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/Mwz-tq-5A8-view-gJB-TV-Tpp.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/QDy-AC-sAr-view-UIh-jp-oRJ.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/SZS-o3-1P7-view-HTO-Y8-god.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/SigninLinkMailViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/SignupViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/UINavigationController-Ck1-vY-O11.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/UIPageViewController-TP5-re-Ncg.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/UITableViewController-0GP-rM-Hvu.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/VcT-PA-0lj-view-r0Z-0G-9xo.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/anK-hg-K4j-view-CvY-vN-fn9.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/bAd-Df-IzS-view-cm5-76-st7.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/emailEntry.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/epilogue.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/fwZ-QE-5et-view-e5n-Bf-JaL.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/lmD-c6-SLs-view-tEh-Nj-xof.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/loginLinkAuth.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/selfHosted.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/siteAddress.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/wpcomPassword.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Login.storyboardc/xro-OF-z8b-view-EnO-7f-1yO.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/LoginEpilogueSectionHeader.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/MediaSizeSliderCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/MenuItemEditing.storyboardc/I7f-UP-f3q-view-28J-vu-bvx.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/MenuItemEditing.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/MenuItemEditing.storyboardc/M5l-a4-veR-view-oJV-7e-Mfw.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/MenuItemEditing.storyboardc/UIViewController-I7f-UP-f3q.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/MenuItemEditing.storyboardc/UIViewController-M5l-a4-veR.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/MenuItemEditing.storyboardc/UIViewController-jyu-Kg-zU5.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/MenuItemEditing.storyboardc/jyu-Kg-zU5-view-vvh-Qp-w4E.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Menus.storyboardc/6J8-vq-BPm-view-Sq1-7m-KXH.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Menus.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Menus.storyboardc/MJZ-q0-1DX-view-cls-wf-pzE.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Menus.storyboardc/RgC-zH-1f6-view-bdk-zs-oZO.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Menus.storyboardc/UIViewController-6J8-vq-BPm.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Menus.storyboardc/UIViewController-MJZ-q0-1DX.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Menus.storyboardc/UIViewController-RgC-zH-1f6.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Menus.storyboardc/UIViewController-cDP-ki-Cxk.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Menus.storyboardc/cDP-ki-Cxk-view-Hoo-UX-xBf.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/NoteBlockActionsTableViewCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/NoteBlockCommentTableViewCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/NoteBlockHeaderTableViewCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/NoteBlockImageTableViewCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/NoteBlockTextTableViewCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/NoteBlockUserTableViewCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/NoteTableHeaderView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/NoteTableViewCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/NoteUndoOverlayView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Noticons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/NotificationSettingsViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Notifications.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Notifications.storyboardc/NotificationDetailsViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Notifications.storyboardc/NotificationsViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Notifications.storyboardc/doV-5W-Rtg-view-XCV-Uv-qac.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Notifications.storyboardc/veA-Pg-QAw-view-lvM-1n-Dgf.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PageListSectionHeaderView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PageListTableViewCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PagedViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Pages.storyboardc/54R-UA-mAH-view-y3a-Ok-AN1.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Pages.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Pages.storyboardc/PageListViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Pages.storyboardc/RgW-to-XfM-view-MiP-YM-poS.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Pages.storyboardc/UITableViewController-54R-UA-mAH.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/People.storyboardc/5ll-RY-leg-view-HU2-1s-xgj.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/People.storyboardc/7bM-Qc-hri-view-U01-Fw-ZiF.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/People.storyboardc/IBP-CG-w3b-view-aAs-1a-UQ6.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/People.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/People.storyboardc/OAN-Wl-zn9-view-ibd-2Q-Phm.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/People.storyboardc/PeopleViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/People.storyboardc/TOR-rB-bMi-view-j3m-Xo-X8T.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/People.storyboardc/UINavigationController-Hu7-FD-rJZ.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/People.storyboardc/UITableViewController-7bM-Qc-hri.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/People.storyboardc/UITableViewController-IBP-CG-w3b.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/People.storyboardc/UITableViewController-OAN-Wl-zn9.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/People.storyboardc/UITableViewController-TOR-rB-bMi.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/People.storyboardc/jns-Ol-UES-view-q0k-QX-oPY.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PkgInfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Plans.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Plans.storyboardc/WordPress.PlanDetailViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Plans.storyboardc/WordPress.PlanPostPurchasePageViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Plans.storyboardc/msO-08-fqQ-view-fcR-is-wCN.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Plans.storyboardc/vJO-em-60i-view-osn-W0-3cA.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/AppIcon29x29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/AppIcon29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/AppIcon29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/AppIcon40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/AppIcon40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/AppIcon60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/AppIcon60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/Assets.car" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/Base.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/Base.lproj/MainInterface.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/Base.lproj/MainInterface.storyboardc/UIViewController-j1y-V4-xli.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/Base.lproj/MainInterface.storyboardc/j1y-V4-xli-view-wbc-yd-nQP.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/WordPressShare.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/WordPressShareExtension" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/ar.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/bg.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/cs.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/cy.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/da.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/de.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/en-AU.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/en-CA.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/en-GB.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/es.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/fr.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/he.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/hr.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/hu.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/id.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/is.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/it.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/ja.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/ko.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/nb.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/nl.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/pl.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/pt-BR.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/pt.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/ro.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/ru.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/sk.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/sq.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/sv.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/th.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/tr.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/zh-Hans.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressShareExtension.appex/zh-Hant.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/Base.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/MainInterface.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/MainInterface.storyboardc/M4Y-Lb-cyx-view-S3S-Oj-5AN.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/MainInterface.storyboardc/UIViewController-M4Y-Lb-cyx.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/WordPressTodayWidget" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/ar.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/bg.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/cs.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/cy.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/da.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/de.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/en-AU.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/en-CA.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/en-GB.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/es.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/fr.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/he.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/hr.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/hu.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/id.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/is.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/it.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/ja.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/ko.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/nb.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/nl.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/pl.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/pt-BR.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/pt.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/ro.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/ru.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/sk.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/sq.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/sv.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/th.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/tr.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/zh-Hans.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PlugIns/WordPressTodayWidget.appex/zh-Hant.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PostCardImageCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PostCardTextCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PostListFooterView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PostPost.storyboardc/0ZV-gF-7z9-view-2Pd-T6-hcw.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PostPost.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/PostPost.storyboardc/PostPostViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Posts.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Posts.storyboardc/PostListViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Posts.storyboardc/UITableViewController-zOz-bT-2ph.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Posts.storyboardc/VTO-0U-HpP-view-Zhd-4n-wcm.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Posts.storyboardc/zOz-bT-2ph-view-srU-rF-GC6.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Reader.storyboardc/FBk-BW-Oyk-view-q5P-P8-r6d.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Reader.storyboardc/His-O5-Cy6-view-nFH-eq-cvg.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Reader.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Reader.storyboardc/ReaderDetailViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Reader.storyboardc/ReaderFollowedSitesViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Reader.storyboardc/ReaderSearchSuggestionsViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Reader.storyboardc/ReaderSearchViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Reader.storyboardc/ReaderStreamViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Reader.storyboardc/UITableViewController-FBk-BW-Oyk.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Reader.storyboardc/UITableViewController-ojY-lw-Nq8.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Reader.storyboardc/ZNR-Yp-I4L-view-qsG-4P-6th.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Reader.storyboardc/e0f-8T-Sz8-view-zNg-ay-PFI.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Reader.storyboardc/ojY-lw-Nq8-view-8GD-qV-397.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Reader.storyboardc/p0j-e1-c0h-view-dbo-c9-92a.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/Reader.storyboardc/sKI-JH-RAG-view-3Jv-hf-pib.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ReaderBlockedSiteCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ReaderCommentCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ReaderCrossPostCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ReaderFollowedSitesStreamHeader.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ReaderGapMarkerCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ReaderListStreamHeader.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ReaderPostCardCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ReaderSiteStreamHeader.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ReaderTagStreamHeader.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ReplyTextView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/RestorePageTableViewCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/RestorePostTableViewCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ThemeBrowser.storyboardc/CnL-S6-q9U-view-DIk-76-9Vi.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ThemeBrowser.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ThemeBrowser.storyboardc/UIViewController-CnL-S6-q9U.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ThemeBrowserSectionHeaderView.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WPTableViewActivityCell.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WPWebViewController.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress-11-12.cdm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress-20-21.cdm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress-22-23.cdm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress-30-31.cdm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress-32-33.cdm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress-37-38.cdm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress-41-42.cdm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress-61-62.cdm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/VersionInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 10.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 11.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 12.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 13.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 14.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 15.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 16.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 17.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 18.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 19.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 2.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 20.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 21.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 22.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 23.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 24.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 25.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 26.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 27.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 28.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 29.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 3.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 30.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 31.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 32.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 33.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 34.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 35.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 36.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 37.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 38.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 39.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 4.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 40.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 41.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 42.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 43.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 44.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 45.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 46.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 47.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 48.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 49.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 5.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 50.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 51.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 52.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 53.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 54.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 55.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 56.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 57.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 58.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 59.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 6.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 60.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 61.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 62.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 63.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 64.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 65.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 66.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 67.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 67.omo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 7.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 8.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress 9.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/WordPress.momd/WordPress.mom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ar.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ar.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/bg.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/cs.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/cy.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/cy.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/da.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/da.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/de.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/de.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/defaultPostTemplate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/defaultPostTemplate_old.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/en-AU.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/en-CA.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/en-CA.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/en-GB.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/en-GB.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/en.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/en.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/es.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/es.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/fr.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/fr.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/he.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/he.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/hr.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/hr.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/hu.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/hu.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/id.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/id.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/is.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/it.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/it.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ja.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ja.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/jetpack.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ko.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ko.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/libswiftRemoteMirror.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/loader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/n.caf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/nb.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/nb.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/nl.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/nl.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/notifications.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/pl.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/pl.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/post.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/postPreview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/pt-BR.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/pt-BR.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/pt.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/pt.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/reader.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ro.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ru.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/ru.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/sk.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/sq.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/stats.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/sv.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/sv.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/th.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/th.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/tr.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/tr.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/xhtml1-transitional.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/xhtmlValidatorTemplate.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/zh-Hans.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/zh-Hans.lproj/Localizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/zh-Hant.lproj/InfoPlist.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/integration/resources/WordPress.app/zh-Hant.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serenity.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ZCC6cDqhjUUZJuS0ki3e0GKQvY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="WordPressAppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="serenity-appium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="integration" />
+      <option name="MAIN_CLASS_NAME" value="integration.WordPressAppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WordPressAppTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="045829e8-5fe6-4880-b7a6-d65f7c66dfac" name="Default Changelist" comment="" />
+      <created>1584333514427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584333514427</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584336246234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584336246234" />
+    <state x="279" y="0" key="CommitChangelistDialog2" timestamp="1584334014303">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="279" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584334014303" />
+    <state width="1323" height="321" key="GridCell.Tab.0.bottom" timestamp="1584340971491">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="321" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584340971491" />
+    <state width="1323" height="321" key="GridCell.Tab.0.center" timestamp="1584340971491">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="321" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584340971491" />
+    <state width="1323" height="321" key="GridCell.Tab.0.left" timestamp="1584340971490">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="321" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584340971490" />
+    <state width="1323" height="321" key="GridCell.Tab.0.right" timestamp="1584340971491">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="321" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584340971491" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1584340971396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584340971396" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1584340971395">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584340971395" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1584340971394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584340971394" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1584340971396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584340971396" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1584337424145">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584337424145" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1584337480727">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584337480727" />
+    <state x="435" y="286" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1584335759235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="435" y="286" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1584335759235" />
+  </component>
+</project>

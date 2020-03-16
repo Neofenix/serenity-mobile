@@ -1,0 +1,10 @@
+integration\pages\WordPressLoginPage.class
+integration\WordPressAppTest.class
+integration\cucumer\iFixitScenarioSteps.class
+integration\IFixitAppTest.class
+integration\serenitySteps\IFixitSteps.class
+integration\pages\MobilePageObject.class
+integration\pages\IFixitPage.class
+integration\cucumer\WordPressLoginScenarioSteps.class
+integration\serenitySteps\WordPressLoginSteps.class
+integration\pages\MobilePageObject$1.class
